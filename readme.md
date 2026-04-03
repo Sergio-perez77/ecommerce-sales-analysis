@@ -28,7 +28,7 @@ Online Retail Dataset from Kaggle.
 
 ##Dashboard
 
-link tableau
+https://us-east-1.online.tableau.com/#/site/gaianuevatierracristal-bf96d420e5/views/EcommercePortfolioDashboard/Dashboard1?:iid=2
 
 #Files
 - `sql/queries.sql`
